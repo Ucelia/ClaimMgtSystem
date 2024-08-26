@@ -1,0 +1,13 @@
+c:\users\celia\documents\visual studio 2015\Projects\GQApp\GQApp\bin\Debug\GQApp.exe.config
+c:\users\celia\documents\visual studio 2015\Projects\GQApp\GQApp\bin\Debug\GQApp.exe
+c:\users\celia\documents\visual studio 2015\Projects\GQApp\GQApp\bin\Debug\GQApp.pdb
+c:\users\celia\documents\visual studio 2015\Projects\GQApp\GQApp\obj\Debug\GQApp.csprojResolveAssemblyReference.cache
+c:\users\celia\documents\visual studio 2015\Projects\GQApp\GQApp\obj\Debug\GQApp.AttendEvent.resources
+c:\users\celia\documents\visual studio 2015\Projects\GQApp\GQApp\obj\Debug\GQApp.Form1.resources
+c:\users\celia\documents\visual studio 2015\Projects\GQApp\GQApp\obj\Debug\GQApp.Login.resources
+c:\users\celia\documents\visual studio 2015\Projects\GQApp\GQApp\obj\Debug\GQApp.Properties.Resources.resources
+c:\users\celia\documents\visual studio 2015\Projects\GQApp\GQApp\obj\Debug\GQApp.csproj.GenerateResource.Cache
+c:\users\celia\documents\visual studio 2015\Projects\GQApp\GQApp\obj\Debug\GQApp.exe
+c:\users\celia\documents\visual studio 2015\Projects\GQApp\GQApp\obj\Debug\GQApp.pdb
+c:\users\celia\documents\visual studio 2015\Projects\GQApp\GQApp\obj\Debug\GQApp.ViewRequests.resources
+c:\users\celia\documents\visual studio 2015\Projects\GQApp\GQApp\obj\Debug\GQApp.ViewStatus.resources
